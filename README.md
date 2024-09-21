@@ -12,5 +12,9 @@ I have just started in javascript and its my first ever project other then pract
 **https://basic-calculator-zesper.vercel.app/**
 
 ## Useful Links
+- **Facebook**: https://www.facebook.com/profile.php?id=100092291944561
+- **Discord**: zesper.gg
+- **Portfolio**: https://portfolio-nine-eta-66.vercel.app/
+- **email**: zesper46@gmail.com
 
 
